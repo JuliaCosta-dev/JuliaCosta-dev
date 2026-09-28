@@ -109,7 +109,18 @@ Gosto especialmente de projetos que envolvem **interfaces, integração com APIs
 
 ## 📊 GitHub
 
-<p align="center">   <img     src="https://github-readme-stats.vercel.app/api?username=JuliaCosta-dev&show_icons=true&hide_border=true&theme=transparent"     height="165"     alt="GitHub Stats"   />   <img     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCosta-dev&layout=compact&hide_border=true&theme=transparent"     height="165"     alt="Top Languages"   /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JuliaCosta-dev&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCosta-dev&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
