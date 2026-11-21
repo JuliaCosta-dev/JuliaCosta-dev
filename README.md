@@ -1,168 +1,156 @@
-# 👋 Olá! Eu sou Julia
+# 👩🏻‍💻 Julia Costa
 
-### 💻 Desenvolvedora de Sistemas | Front-end & Full Stack
+### Software Developer · Front-end & Full Stack
 
-Sou desenvolvedora de sistemas com foco em **aplicações web e mobile**, trabalhando principalmente com **JavaScript, TypeScript, React e React Native**.
+*Building things that make sense.*
 
-Gosto de transformar ideias em aplicações funcionais, responsivas e bem estruturadas — sempre buscando aprender algo novo no processo.
+Desenvolvedora de sistemas apaixonada por tecnologia, interfaces e pela construção de soluções que resolvem problemas reais.
 
-Atualmente, também venho aprofundando meus conhecimentos em **backend, bancos de dados, APIs, arquitetura de software e desenvolvimento de sistemas**.
+Minha experiência está principalmente no desenvolvimento **Web e Mobile**, utilizando JavaScript, TypeScript, React e React Native. Também venho expandindo minha atuação para o backend, trabalhando com APIs, bancos de dados, autenticação e arquitetura de software.
 
----
-
-## 🛠️ Tecnologias
-
-### Front-end
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API"/>
-</p>
-
-### Banco de dados
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
-
-### Ferramentas & Outros
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-</p>
+Gosto de entender como as coisas funcionam por trás das interfaces, explorar diferentes tecnologias e construir aplicações que sejam não apenas bonitas, mas também funcionais, organizadas e escaláveis.
 
 ---
 
-## 🚀 Projetos
+## `01` — Tech Stack
 
-### 🦷 ClinicFic
+### Front-end & Mobile
 
-Aplicação web para gerenciamento de uma clínica odontológica, desenvolvida com foco em uma interface moderna, responsiva e organizada.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+</p>
 
-**Tecnologias:** React · Vite · Tailwind CSS · shadcn/ui
+### Back-end & APIs
 
-🔗 **[Acessar projeto](https://clinicfic.vercel.app/)**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
+
+## `02` — Featured Projects
+
+### 🏥 ClinicFic
+
+Aplicação web para gerenciamento de uma clínica odontológica, com foco em organização, usabilidade e experiência do usuário.
+
+**Stack:** React · Vite · Tailwind CSS · shadcn/ui
+
+🔗 [Live Demo](https://clinicfic.vercel.app/)
 
 ### 🎨 Atalier
 
-Landing page desenvolvida para praticar **HTML, CSS, JavaScript, animações e responsividade**.
+Landing page desenvolvida para explorar design de interfaces, animações, composição visual e responsividade.
 
-🔗 **[Acessar projeto](https://atalier-lading-page.vercel.app/)**
+**Stack:** HTML · CSS · JavaScript
 
----
+🔗 [Live Demo](https://atalier-lading-page.vercel.app/)
 
-### 📱 Aplicações Mobile
+### 📦 Business Management Systems
 
-Também tenho experiência no desenvolvimento de aplicações mobile utilizando **React Native e Expo**, trabalhando com navegação, consumo de APIs, autenticação, gerenciamento de estado e interfaces responsivas.
+Experiência no desenvolvimento de sistemas de gestão, incluindo aplicações para controle de operações, gerenciamento de dados, integrações e fluxos de trabalho.
 
----
+### 📱 Mobile Applications
 
-## 📚 Atualmente estudando
-
-Estou aprofundando meus conhecimentos em:
-
-* 🏗️ Arquitetura de software
-* 🔌 Desenvolvimento e arquitetura de APIs
-* 🗄️ Bancos de dados e SQL
-* 🧩 Clean Architecture
-* 🧠 DDD e princípios SOLID
-* 🐳 Docker e ambientes de desenvolvimento
-* 📱 Desenvolvimento mobile com React Native
-* ☁️ Desenvolvimento de aplicações SaaS
+Desenvolvimento de aplicações mobile com React Native e Expo, envolvendo navegação, integração com APIs, autenticação e gerenciamento de estado.
 
 ---
 
-## 💡 O que gosto de construir
+## `03` — Currently Exploring
 
-```text
-Web Applications      ████████████████████
-Mobile Applications   ██████████████████░░
-APIs & Backend         ████████████████░░░░
-Databases              ███████████████░░░░░
-UI & Responsiveness    █████████████████░░░
-```
+Estou constantemente expandindo meus conhecimentos, especialmente em:
 
-Gosto especialmente de projetos que envolvem **interfaces, integração com APIs, gerenciamento de dados e resolução de problemas reais**.
+- Arquitetura de software e Clean Architecture
+- Desenvolvimento de APIs com Python e FastAPI
+- SQL, PostgreSQL e modelagem de dados
+- Autenticação, autorização e segurança
+- Domain-Driven Design (DDD) e SOLID
+- Docker e ambientes de desenvolvimento
+- Sistemas SaaS e aplicações escaláveis
+- Desenvolvimento mobile
 
 ---
 
-## 📊 GitHub
+## `04` — GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌱 Um pouco sobre mim
+## `05` — Beyond the Code
+
+Tecnologia é uma das minhas grandes paixões, mas também gosto de explorar outras formas de criatividade.
+
+Entre arte, música, design e novas ideias, acredito que boas soluções surgem justamente da curiosidade de olhar para as coisas de diferentes perspectivas.
 
 ```javascript
 const julia = {
-  role: "Software Developer",
-  focus: [
-    "Web Development",
-    "Mobile Development",
-    "APIs",
-    "Software Architecture"
+  occupation: "Software Developer",
+  interests: [
+    "Technology",
+    "Software Architecture",
+    "UI/UX Design",
+    "Creative Projects",
+    "Problem Solving"
   ],
-  technologies: [
+  favoriteStack: [
     "JavaScript",
     "TypeScript",
     "React",
     "React Native",
-    "Node.js",
-    "SQL"
+    "Python"
   ],
-  currentlyLearning: [
-    "Backend Architecture",
-    "Docker",
-    "Databases",
-    "SaaS Development"
-  ],
-  goal: "Continuar aprendendo, construindo e evoluindo 🚀"
+  mindset: "Always learning, always building."
 };
 ```
 
 ---
 
-## 📫 Entre em contato
+## `06` — Let's Connect
 
-<p>   <a href="https://github.com/JuliaCosta-dev">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>   </a>   <a href="https://www.linkedin.com/in/j%C3%BAlia-costa-7293a1316/">     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://github.com/JuliaCosta-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  
+  <a href="https://www.linkedin.com/in/j%C3%BAlia-costa-7293a1316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Construindo projetos, aprendendo todos os dias e transformando ideias em código.</i> 💻✨
+  <i>Curiosity drives innovation. Code brings ideas to life.</i> 💙
 </p>
